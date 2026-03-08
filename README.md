@@ -1,4 +1,4 @@
-# Nora's Data Science Portfolio
+# Nora's Data Analysis Portfolio
 
 Welcome to my portfolio! 
 
