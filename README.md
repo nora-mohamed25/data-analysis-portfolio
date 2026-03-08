@@ -1,6 +1,7 @@
 # Nora's Data Science Portfolio
 
 Welcome to my portfolio! 
+
 This repository contains 15 projects I've created in Google Colab. You can open any project directly in Colab by clicking the links below.
 
 ---
